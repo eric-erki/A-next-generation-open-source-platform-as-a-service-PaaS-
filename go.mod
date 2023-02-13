@@ -67,8 +67,8 @@ require (
 	github.com/olekukonko/ts v0.0.0-20140412220145-ecf753e7c962 // indirect
 	github.com/opencontainers/runc v1.0.0-rc8
 	github.com/opencontainers/runtime-spec v1.0.1 // indirect
-	github.com/opencontainers/selinux v1.2.2 // indirect
-	github.com/pkg/errors v0.8.0
+	github.com/opencontainers/selinux v1.3.1 // indirect
+	github.com/pkg/errors v0.8.1
 	github.com/rancher/sparse-tools v0.0.0-20190307223929-666f9b3bde21
 	github.com/rnd42/go-jsonpointer v0.0.0-20140520035338-0480215403db // indirect
 	github.com/seccomp/libseccomp-golang v0.0.0-20160531183505-32f571b70023 // indirect
@@ -84,7 +84,7 @@ require (
 	golang.org/x/crypto v0.0.0-20190911031432-227b76d455e7
 	golang.org/x/net v0.0.0-20190918130420-a8b05e9114ab
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
-	golang.org/x/sys v0.0.0-20190804053845-51ab0e2deafa
+	golang.org/x/sys v0.0.0-20191115151921-52ab43148777
 	google.golang.org/api v0.7.0
 	google.golang.org/genproto v0.0.0-20190801165951-fa694d86fc64 // indirect
 	google.golang.org/grpc v1.22.1 // indirect
