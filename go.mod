@@ -84,7 +84,7 @@ require (
 	golang.org/x/crypto v0.0.0-20190911031432-227b76d455e7
 	golang.org/x/net v0.0.0-20190918130420-a8b05e9114ab
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
-	golang.org/x/sys v0.0.0-20190804053845-51ab0e2deafa
+	golang.org/x/sys v0.1.0
 	google.golang.org/api v0.7.0
 	google.golang.org/genproto v0.0.0-20190801165951-fa694d86fc64 // indirect
 	google.golang.org/grpc v1.22.1 // indirect
