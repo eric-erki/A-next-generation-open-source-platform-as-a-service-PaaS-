@@ -8,7 +8,7 @@ require (
 	github.com/Azure/go-ansiterm v0.0.0-20170929234023-d6e3b3328b78
 	github.com/BurntSushi/toml v0.3.1
 	github.com/armon/go-metrics v0.0.0-20150601112433-b2d95e5291cd // indirect
-	github.com/aws/aws-sdk-go v0.0.0-20170816181422-2063d937ea69
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/boltdb/bolt v1.3.1
 	github.com/checkpoint-restore/go-criu v0.0.0-20181120144056-17b0214f6c48 // indirect
 	github.com/cheggaaa/pb v0.0.0-20150223212723-0464652af750
@@ -27,8 +27,7 @@ require (
 	github.com/flynn/tail v0.0.0-20180226200612-fc12669dc660
 	github.com/garyburd/redigo v0.0.0-20151219232044-836b6e58b335
 	github.com/go-bindata/go-bindata v3.1.2+incompatible
-	github.com/go-ini/ini v1.12.0 // indirect
-	github.com/go-sql-driver/mysql v0.0.0-20160125151823-7c7f55628262
+	github.com/go-sql-driver/mysql v1.5.0
 	github.com/go-stack/stack v1.7.0 // indirect
 	github.com/godbus/dbus v4.1.0+incompatible // indirect
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
@@ -45,7 +44,6 @@ require (
 	github.com/inconshreveable/log15 v0.0.0-20171019012758-0decfc6c20d9
 	github.com/jackc/fake v0.0.0-20150926172116-812a484cc733 // indirect
 	github.com/jackc/pgx v0.0.0-20160715195140-558d5550cf5c
-	github.com/jmespath/go-jmespath v0.0.0-20160202185014-0b12d6b521d8 // indirect
 	github.com/jtacoma/uritemplates v1.0.0
 	github.com/julienschmidt/httprouter v0.0.0-20140925104356-46807412fe50
 	github.com/jvatic/asset-matrix-go v0.0.0-20190524161137-550750b01e75
@@ -68,13 +66,12 @@ require (
 	github.com/opencontainers/runc v1.0.0-rc8
 	github.com/opencontainers/runtime-spec v1.0.1 // indirect
 	github.com/opencontainers/selinux v1.2.2 // indirect
-	github.com/pkg/errors v0.8.0
+	github.com/pkg/errors v0.9.1
 	github.com/rancher/sparse-tools v0.0.0-20190307223929-666f9b3bde21
 	github.com/rnd42/go-jsonpointer v0.0.0-20140520035338-0480215403db // indirect
 	github.com/seccomp/libseccomp-golang v0.0.0-20160531183505-32f571b70023 // indirect
 	github.com/shopspring/decimal v0.0.0-20180709203117-cd690d0c9e24 // indirect
 	github.com/sirupsen/logrus v1.4.1 // indirect
-	github.com/smartystreets/goconvey v0.0.0-20190710185942-9d28bd7c0945 // indirect
 	github.com/stevvooe/resumable v0.0.0-20150521211217-51ad44105773
 	github.com/syndtr/gocapability v0.0.0-20180916011248-d98352740cb2 // indirect
 	github.com/tent/canonical-json-go v0.0.0-20130607151641-96e4ba3a7613
@@ -82,7 +79,7 @@ require (
 	github.com/vishvananda/netlink v0.0.0-20170502164845-1e045880fbc2
 	github.com/vishvananda/netns v0.0.0-20170219233438-54f0e4339ce7 // indirect
 	golang.org/x/crypto v0.0.0-20190911031432-227b76d455e7
-	golang.org/x/net v0.0.0-20190918130420-a8b05e9114ab
+	golang.org/x/net v0.0.0-20200202094626-16171245cfb2
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	golang.org/x/sys v0.0.0-20190804053845-51ab0e2deafa
 	google.golang.org/api v0.7.0
@@ -95,7 +92,7 @@ require (
 	gopkg.in/natefinch/lumberjack.v2 v2.0.0-20151013014448-600ceb4523e5
 	gopkg.in/tomb.v1 v1.0.0-20140529071818-c131134a1947 // indirect
 	gopkg.in/vmihailenco/msgpack.v2 v2.9.1 // indirect
-	gopkg.in/yaml.v2 v2.0.0-20160301204022-a83829b6f129
+	gopkg.in/yaml.v2 v2.2.2
 	gotest.tools v0.0.0-20181223230014-1083505acf35
 	labix.org/v2/mgo v0.0.0-20140701140051-000000000287 // indirect
 	launchpad.net/gocheck v0.0.0-20140225173054-000000000087 // indirect
